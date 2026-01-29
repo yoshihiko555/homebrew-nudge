@@ -1,4 +1,4 @@
-cask "nudge" do
+cask "nudge-notion" do
   version "0.0.2"
   sha256 "aec0219c7023be74495846048fbcea0d638b45a982048221bfe4c7fa12674cb8"
 
