@@ -1,6 +1,6 @@
 cask "nudge" do
-  version "0.0.1"
-  sha256 "ca9cc3d9b85999f95498805db599ea571c616fd1d04337cb9816b37b48ab6e37"
+  version "0.0.2"
+  sha256 "aec0219c7023be74495846048fbcea0d638b45a982048221bfe4c7fa12674cb8"
 
   url "https://github.com/yoshihiko555/Nudge/releases/download/v#{version}/Nudge-#{version}.dmg"
   name "Nudge"
